@@ -1,3 +1,2 @@
 # hello-world
-start test
-drama want het bos is leeggelopen.
+In het bos lopen vele dieren, te veel om op te noemen.
